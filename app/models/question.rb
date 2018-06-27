@@ -1,5 +1,5 @@
-#this filr should contain ruby 
-  def 
+#this filr should contain ruby
+  def
 
 
 class Question
